@@ -1,0 +1,10 @@
+{
+  "name": "cweepy-elm",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "elm make Main.elm --output public/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
